@@ -1,0 +1,6 @@
+spot_url = "https://api-gcp.binance.com"
+spot_exchange_info = "/api/v3/exchangeInfo"
+spot_ticker = "/api/v3/ticker"
+
+futures_url = "https://fapi.binance.com"
+futures_ticker_24h = "/fapi/v1/ticker/24hr"
